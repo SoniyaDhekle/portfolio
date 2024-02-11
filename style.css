@@ -26,6 +26,10 @@ body{
     width: 140px;
     
 }
+.log_img{
+    height: 80px;
+    padding-top: 10px;
+}
 
 nav{
     display: flex;
